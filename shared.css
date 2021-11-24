@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+}
+p {
+  font-family: "Roboto";
+  color: darkgray;
+}
+
+h1 {
+  font-family: sans-serif;
+  color: rgb(10, 9, 9);
+}
+
+a {
+  color: rgb(165, 1, 78);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: rgb(1, 165, 102);
+}
+
+#todays_chalange {
+  color: rgb(158, 54, 23);
+  font-weight: bold;
+  font-size: 52px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 90px;
+}
