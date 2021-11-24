@@ -1,3 +1,37 @@
-#id_2 {
-  color: red;
+h1 {
+  font-size: 48px;
+  color: rgb(29, 27, 27);
 }
+a {
+  background-color: rgb(240, 167, 167);
+  font-family: "Roboto";
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 5px;
+  border: 1pc solid rgb(238, 255, 0);
+  margin: 10px;
+}
+a:hover {
+  text-decoration: underline;
+  color: rgb(164, 95, 233);
+}
+
+li {
+  background-color: rgb(29, 32, 192);
+  border-radius: 5px;
+  margin: 12px;
+  padding: 10px;
+  box-shadow: 5px 5px;
+}
+ol {
+  list-style: none;
+  width: 500px;
+  margin: 36px auto 0 auto;
+}
+
+#description {
+  margin: 35px;
+}
+/* header p {
+  margin-bottom: 50px;
+} */

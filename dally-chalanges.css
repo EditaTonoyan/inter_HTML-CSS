@@ -1,0 +1,14 @@
+main {
+  width: 800%;
+  margin: auto;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 90px;
+}
+#todays_chalange {
+  color: rgb(158, 54, 23);
+  font-weight: bold;
+  font-size: 52px;
+}
